@@ -1,0 +1,20 @@
+Supplement for Project Topics & More
+This supplement is to provide some guidelines that can help you select a proper topic for your Project 3.
+Since we have learned many UNIX commands, rules, functions, and shell scripts, I think it will make more
+sense to develop something that is related with what we have learned and done for the course work.
+Many students proposed to develop some well-known games, calculators or other known applications.
+Unfortunately, however, those are not acceptable for this project. First of all, the pythons code for such
+applications are widely available on the Internet. Also, they are not so relevant to the UNIX course work.
+Here are my suggestions for the topics for you to select which will be more relevant to the UNIX course
+work. Using python scripting or python programming, you can
+Develop a game that can perform a set of meaningful (not so trivial) UNIX system administration work
+interactively upon receiving the use’s requests
+Create a similar file tree which you created using B shell script for Project 2
+Create an application that executes a group of b-shell scripts which are executing a set of UNIX
+commands and generate the final output. The b-shell scripts can be executed in a way that the output
+of one b-shell script becomes the input to another b-shell script.
+Write a program that reads the input file and search the words, sentences, or any other features in the
+input file that satisfy the conditions provided by the user or given as the command line arguments
+You can refer to the following links to get some ideas.
+https://docs.python.org/3/library/os.html
+ WORK ACCEPTANCE FOR ANY ASSIGNMENT till the end of the semester! 
