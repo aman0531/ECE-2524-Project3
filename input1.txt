@@ -1,0 +1,7 @@
+Supplement FOR Project Topics  More
+This supplement is to provide some guidelines that can help you select a proper topic FOR your Project 3
+Since we have learned many UNIX commands rules functions and shell scripts I think it will make more
+sense to develop something that is related with what we have learned and done FOR the course work
+aman
+AMAN
+AMaN
